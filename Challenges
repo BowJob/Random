@@ -1,0 +1,6 @@
+1. FizzBuzz - https://www.youtube.com/watch?v=QPZ0pIK_wsc
+  Write the game FizzBuzz as code.
+  count from 1 to n
+    if multiple of 3, say Fizz instead of number, 
+    if multiple of 5, say Buzz, 
+    if multiple of both, say FizzBuzz
